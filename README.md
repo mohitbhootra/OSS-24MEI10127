@@ -1,4 +1,4 @@
-# oss-audit-24BCY10080
+# OSS 24MEI10127
 
 > A capstone project for the Open Source Software course, involving a detailed audit of the Apache HTTP Server, supported by Linux-based shell scripting assignments.
 
@@ -8,8 +8,8 @@
 
 | Field                  | Details              |
 |------------------------|----------------------|
-| **Student Name**       | Utkarsh Sharma       |
-| **Registration Number**| 24BCY10080           |
+| **Student Name**       | Mohit Bhootra      |
+| **Registration Number**| 24MEI10127          |
 | **Course**             | Open Source Software |
 
 ---
